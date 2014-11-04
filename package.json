@@ -1,6 +1,6 @@
 {
   "name": "global-modulename",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a transform for browserify which allows the replacement of a new global, '__modulename' with the name of the (sub)module within which it is defined",
   "main": "index.js",
   "scripts": {
